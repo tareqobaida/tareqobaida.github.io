@@ -49,6 +49,9 @@ thead{
 #home{
 	min-height:85vh;
 	background-image: url("includes/resources/img/IMG_6961.JPG");
+	  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
 }
 
 #home #title{
